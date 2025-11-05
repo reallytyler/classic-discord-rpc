@@ -1,7 +1,7 @@
 # Classic Discord RPC
 
 ### Classic Discord RPC adds rich Discord presence to Minecraft 1.21.9, showing your world, dimension, and server status in real time.
-[![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/discordrpc) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reallytyler/classic-discord-rpc) |
+[![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/discordrpc) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reallytyler/classic-discord-rpc) 
 ## Other projects of ours!
 
 <div align="center">
